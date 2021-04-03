@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Salihu Abdulhamid 👋
 
-<!--
-**Codedzephyr/Codedzephyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my page, I am a self taught Front End Developer. I enjoy solving problems cause they could be fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on furthering my career in Front End Development
+- 🌱 I’m currently learning new technology to add to my Skillset
+- 👯 I’m looking to collaborate on collaborate on projects that would sharpen my technical and communication skills as a front end developer.
+- ⚡ Fun fact: I love playing games, reading,watching movies,series and anime.
+
+###Languages and Tools:
+-HTML,CSS and Javascript
+-Bootstrap, Materialize,Tailwind
+-Angular
+
+###Connect with me
+- <a href = https://twitter.com/home>Hamid</a>
+- <a href = www.linkedin.com/in/salihu-abdulhamid-7bab04183>Hamid</a>
+- <a href = https://infallible-pike-a0b433.netlify.app/>Portfolio</a>
