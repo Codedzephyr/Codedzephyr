@@ -9,9 +9,10 @@ Welcome to my page, I am a self taught Front End Developer. I enjoy solving prob
 - ⚡ Fun fact: I love playing games, reading,watching movies,series and anime.
 
 ###Languages and Tools:
--HTML,CSS and Javascript
--Bootstrap, Materialize,Tailwind
--Angular
+<ul>
+  <li>HTML,CSS and Javascript</li>
+  <li>Bootstrap, Materialize,Tailwind</li>
+  <li>Angular</li>
 
 ###Connect with me
 - <a href = https://twitter.com/home>My Twitter</a>
