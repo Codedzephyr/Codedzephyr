@@ -19,4 +19,5 @@ Welcome to my page, I am a self taught Front End Developer. I enjoy solving prob
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codedzephyr&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codedzephyr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
