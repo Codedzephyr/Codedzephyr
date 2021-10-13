@@ -10,8 +10,8 @@ Welcome to my page, I am a self taught Front End Developer. I enjoy solving prob
 
 ### Languages and Tools:
 <ul>
-  <li>HTML,CSS and Javascript</li>
-  <li>Bootstrap, Materialize,Tailwind,Git</li>
+  <li>HTML and CSS</li>
+  <liJavaScript,Git</li>
   <li>React</li>
 <br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Z3PHYR)](https://github.com/anuraghazra/github-readme-stats)
