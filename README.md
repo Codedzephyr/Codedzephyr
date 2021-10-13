@@ -14,14 +14,4 @@ Welcome to my page, I am a self taught Front End Developer. I enjoy solving prob
   <liJavaScript and Git</li>
   <li>React</li>
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Z3PHYR)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codedzephyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codedzephyr)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Connect with me
-- <a href = https://twitter.com/_dimah__ >My Twitter</a>
-- <a href = www.linkedin.com/in/salihu-abdulhamid-7bab04183>Linked In Profile</a>
-- <a href = https://infallible-pike-a0b433.netlify.app/>Portfolio</a>
+[![Salihu Abdulhamid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Z3PHYR)](https://github.com/anuraghazra/github-readme-stats)
