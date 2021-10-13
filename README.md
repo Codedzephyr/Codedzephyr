@@ -11,7 +11,7 @@ Welcome to my page, I am a self taught Front End Developer. I enjoy solving prob
 ### Languages and Tools:
 <ul>
   <li>HTML and CSS</li>
-  <liJavaScript and Git</li>
+  <li>JavaScript and Git</li>
   <li>React</li>
 </ul>
 
