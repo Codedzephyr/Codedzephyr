@@ -14,7 +14,9 @@ Welcome to my page, I am a self taught Front End Developer. I enjoy solving prob
   <li>Bootstrap, Materialize,Tailwind,Git</li>
   <li>React</li>
 <br>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Z3PHYR)]
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me
 - <a href = https://twitter.com/_dimah__ >My Twitter</a>
